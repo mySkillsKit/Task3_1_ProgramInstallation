@@ -35,6 +35,18 @@ public class Main {
         createNewFile("/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/temp",
                 "temp.txt", sbLog);
 
+        createNewFile("/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/drawables",
+                ".gitkeep", sbLog);
+        createNewFile("/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/vectors",
+                ".gitkeep", sbLog);
+        createNewFile("/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/icons",
+                ".gitkeep", sbLog);
+
+        createNewFile("/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/savegames",
+                ".gitkeep", sbLog);
+        createNewFile("/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/src/test",
+                ".gitkeep", sbLog);
+
 
         try (FileWriter logFile = new FileWriter(
                 "/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/temp/temp.txt", false)) {
@@ -43,7 +55,6 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
 
     }
 

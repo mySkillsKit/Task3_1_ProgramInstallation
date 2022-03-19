@@ -1,0 +1,17 @@
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/src' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/savegames' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/temp' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/src/main' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/src/test' successfully created
+Congratulations! File 'Main.java' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/src/main' successfully created
+Congratulations! File 'Utils.java' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/src/main' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/drawables' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/vectors' successfully created
+Congratulations! Catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/icons' successfully created
+Congratulations! File 'temp.txt' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/temp' successfully created
+Congratulations! File '.gitkeep' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/drawables' successfully created
+Congratulations! File '.gitkeep' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/vectors' successfully created
+Congratulations! File '.gitkeep' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/res/icons' successfully created
+Congratulations! File '.gitkeep' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/savegames' successfully created
+Congratulations! File '.gitkeep' in the catalog '/Users/avas/IdeaProjects/Task3_1_ProgramInstallation/Games/src/test' successfully created
